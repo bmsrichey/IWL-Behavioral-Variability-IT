@@ -1,0 +1,183 @@
+id,trial_number,pop_id,sex_binary,sex_ternary,svl,nba_day_agg,nba_order_agg,group_number_agg,agg_bite_freq,agg_latency,n_recorder_rows_agg,n_recorders_agg,recorder_list_agg,nba_day_bold,nba_order_bold,group_number_bold,bold_shelter_dur,bold_latency,n_recorder_rows_bold,n_recorders_bold,recorder_list_bold,nba_day_neo,nba_order_neo,group_number_neo,neo_freq,neo_latency,n_recorder_rows_neo,n_recorders_neo,recorder_list_neo,nba_day_exp,nba_order_exp,group_number_exp,exp_unique_corners,exp_lat_c2,n_recorder_rows_exp,n_recorders_exp,recorder_list_exp
+cal001,1,cal,Male,Male,59,1,nba,16,0,396.518,1,1,clai,1,nba,16,911.9660000000001,11.067000000000007,1,1,brea,1,anb,16,0.5,1198.5500000000002,2,2,apri; moni,1,anb,16,0,1800,2,2,ella; jade
+cal004,1,cal,Female,Female,55,1,nba,16,0,456.31600000000003,1,1,clai,1,nba,16,0,3,1,1,brea,1,anb,16,2.5,166.2705,2,2,apri; moni,1,anb,16,0,1800,2,2,ella; jade
+cal007,3,cal,Female,Female_Eggs,64,1,anb,8,0,319.92766666666665,3,3,anus; brea; lori,NA,NA,NA,NA,NA,NA,NA,NA,1,anb,8,1,299.517,1,1,jade,1,anb,8,2,564.967,1,1,ella
+cal010,1,cal,Male,Male,66,2,nba,14,0,724.917,2,2,brea; thea,NA,NA,NA,NA,NA,NA,NA,NA,2,nba,14,2,229.8505,2,2,anni; mari,NA,NA,NA,NA,NA,NA,NA,NA
+cal011,1,cal,Male,Male,73,1,nba,16,0,80.685,1,1,clai,1,nba,16,340.59999999999997,2.966000000000008,1,1,brea,1,anb,16,2.5,338.0425,2,2,apri; moni,1,anb,16,1,1800,2,2,ella; jade
+cal012,1,cal,Female,Female,63,1,nba,15,0,1200,3,3,brea; lori; thea,1,nba,15,1097.4645,0.4935000000000116,2,2,audr; kait,1,nba,15,1,965.8333333333334,3,3,audr; clai; jade,1,nba,15,3,67.667,1,1,jnck
+cal014,1,cal,Male,Male,71,2,nba,14,0.5,622.617,2,2,brea; thea,NA,NA,NA,NA,NA,NA,NA,NA,2,nba,14,2,1104.7084999999997,2,2,anni; mari,2,nba,14,3,594.8933333333333,3,3,ella; jade; thel
+cal017,1,cal,Female,Female,56,2,ban,13,0,1200,2,2,anus; brea,2,ban,13,1165.3339999999998,0.9659999999998945,1,1,audr,2,ban,13,0,1200,1,1,jade,2,ban,13,3,122.16649999999998,2,2,audr; ella
+cal019,1,cal,Male,Male,71,2,ban,13,3,307.00899999999996,2,2,anus; brea,2,ban,13,619.567,0,1,1,audr,2,ban,13,1,1068.3490000000002,1,1,jade,2,ban,13,3,437.5,2,2,audr; ella
+cal020,1,cal,Male,Male,70,1,nba,16,0,599.8,1,1,clai,1,nba,16,26.099999999999994,4.933000000000007,1,1,brea,1,anb,16,4,837.5045,2,2,apri; moni,1,anb,16,0,1800,2,2,ella; jade
+cal021,1,cal,Male,Male,66,1,nba,15,0,487.82233333333335,3,3,brea; lori; thea,1,nba,15,644.2000000000003,129.5745,2,2,audr; kait,1,nba,15,0,1200,4,4,audr; clai; jade; lady,1,nba,15,1,1800,1,1,jnck
+cal022,1,cal,Female,Female,65,2,nba,14,0,1200,2,2,brea; thea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+cal023,1,cal,Female,Female,58,1,nba,15,0,1200,1,1,thea,1,nba,15,142.11499999999995,0.5499999999999972,1,1,kait,1,nba,15,0,1200,4,4,audr; clai; jade; lady,NA,NA,NA,NA,NA,NA,NA,NA
+cal025,1,cal,Male,Male,69,2,ban,13,0,546.0886666666667,3,3,anus; brea; kait,2,ban,13,38.11649999999986,6.5335000000000605,2,2,anni; cind,2,ban,13,8,146.75,1,1,scho,2,ban,13,3,0.9335000000000004,2,2,audr; ella
+cal026,1,cal,Male,Male,68,2,nba,14,0,1200,2,2,brea; thea,NA,NA,NA,NA,NA,NA,NA,NA,2,nba,14,0,1200,2,2,anni; mari,2,nba,14,1,1800,3,3,ella; jade; thel
+cal027,1,cal,Male,Male,71,1,nba,15,0,595.4776666666667,3,3,brea; lori; thea,1,nba,15,144.83400000000012,0,1,1,audr,1,nba,15,0,1200,3,3,audr; clai; jade,1,nba,15,3,56.7,1,1,jnck
+cal028,1,cal,Female,Female_Eggs,60,2,ban,13,0,1191.7796666666666,3,3,anus; brea; kait,2,ban,13,0.3745000000000118,13.058499999999995,2,2,anni; cind,2,ban,13,3,434.501,1,1,scho,2,ban,13,3,332.6835,2,2,audr; ella
+cal029,2,cal,Male,Male,73,2,nba,1,0,35.033,1,1,brea,2,nba,1,214.43399999999997,0,1,1,audr,2,nba,1,5,436.774,1,1,apri,2,nba,1,0,1800,2,2,audr; ella
+cal031,2,cal,Male,Male,75,2,anb,2,0,510.86699999999996,1,1,nico,2,anb,2,439.7914999999998,95.392,2,2,audr; mari,2,anb,2,6.666666666666667,512.3566666666667,3,3,jade; mari; zoeb,2,anb,2,0,1800,1,1,clai
+cal032,2,cal,Female,Female,57,2,ban,3,0,554.7,2,2,cind; ella,2,ban,3,686.6879999999999,24.9495,2,2,anis; mari,2,ban,3,5,368.30150000000003,2,2,cind; mari,2,ban,3,3,249.76700000000002,1,1,anus
+cal033,2,cal,Male,Male,79,2,anb,5,0,16.032999999999987,1,1,brea,2,anb,5,788.3580000000001,2.13900000000001,1,1,anis,2,anb,5,0,1200,2,2,bach; mari,2,anb,5,1,1800,1,1,anus
+cal034,2,cal,Male,Male,75,1,anb,7,0,359.84800000000007,1,1,anus,1,anb,7,0,12.882999999999981,1,1,jade,1,anb,7,6,457.099,2,2,jade; jnck,1,anb,7,1.5,1800,2,2,audr; ella
+cal035,2,cal,Female,Female,57,2,nba,4,0,1063.4,1,1,brea,2,nba,4,1154.5330000000001,13.233000000000004,1,1,brea,2,nba,4,0,1200,3,3,cind; jade; mari,2,nba,4,2.25,624.3245000000001,4,4,brea; cla1; clai; jade
+cal036,2,cal,Female,Female_Eggs,69,2,anb,5,0,845.7669999999999,1,1,brea,2,anb,5,232.21400000000028,4,1,1,anis,2,nba,5,2,839.6865,2,2,bach; mari,2,nba,5,3,197.65,1,1,anus
+cal037,2,cal,Female,Female_Eggs,65,2,nba,4,0,202.79999999999998,1,1,brea,2,nba,4,476.8500000000001,2.01700000000001,2,2,audr; brea,2,nba,4,3,649.544,3,3,cind; jade; mari,2,nba,4,2.25,623.9505,4,4,brea; cla1; clai; jade
+cal038,2,cal,Female,Female_Eggs,64,2,ban,3,0,605.4335,2,2,cind; ella,2,ban,3,346.4479999999999,6.674000000000007,2,2,anis; mari,2,ban,3,1,9.5415,2,2,cind; mari,2,ban,3,2,1076.434,1,1,anus
+cal039,2,cal,Female,Female,52,2,ban,3,0,1200,2,2,cind; ella,2,ban,3,961.1085,58.20099999999999,2,2,anis; mari,2,ban,3,0,1200,2,2,cind; mari,2,ban,3,1,1800,1,1,anus
+cal040,2,cal,Male,Male,67,2,nba,1,18,343.8,1,1,brea,2,nba,1,283.5329999999999,114.03400000000005,1,1,audr,2,nba,1,7,473.40199999999993,1,1,apri,2,nba,1,3,123.58300000000001,2,2,audr; ella
+cal041,2,cal,Male,Male,65,2,anb,2,0,258.97,1,1,nico,2,anb,2,436.4384999999998,1.125,2,2,audr; mari,2,anb,2,8.666666666666666,302.15666666666664,3,3,jade; mari; zoeb,2,anb,2,0,1800,2,2,cla1; clai
+cal042,2,cal,Male,Male,68,2,anb,5,0,1200,1,1,brea,2,anb,5,413.87199999999973,27.33499999999998,1,1,anis,2,nba,5,0,1200,2,2,bach; mari,2,nba,5,3,1411.3960000000002,1,1,anus
+cal043,2,cal,Male,Male,65,2,ban,3,0,257.1995,2,2,cind; ella,2,ban,3,641.4685,3.6270000000000095,2,2,anis; mari,2,ban,3,7,410.9425,2,2,cind; mari,2,ban,3,3,99.37700000000001,1,1,anus
+cal044,2,cal,Female,Female_Eggs,70,2,nba,1,0,463.1,1,1,brea,2,nba,1,15.299999999999955,164.99999999999994,1,1,audr,2,nba,1,3,717.118,1,1,apri,2,nba,1,0.5,1800,2,2,audr; ella
+cal045,2,cal,Male,Male,63,1,ban,8,0,196.166,1,1,brea,1,ban,8,241.76799999999997,0.16599999999999682,1,1,brad,1,ban,8,0,1200,2,2,jade; jnck,1,ban,8,3,248.39999999999998,2,2,audr; ella
+cal046,2,cal,Male,Male,70,2,nba,4,0,310.46700000000004,1,1,brea,2,nba,4,114.40050000000005,7.366500000000002,2,2,audr; brea,2,nba,4,12.666666666666666,111.24366666666667,3,3,cind; jade; mari,2,nba,4,2.25,510.755,4,4,brea; cla1; clai; jade
+cal047,2,cal,Male,Male,70,2,anb,2,0,30.835999999999984,1,1,nico,2,anb,2,0,1.8760000000000048,2,2,audr; mari,2,anb,2,6.666666666666667,188.88700000000003,3,3,jade; mari; zoeb,2,anb,2,2,60.746,2,2,cla1; clai
+cal048,2,cal,Female,Female_Eggs,57,1,anb,7,0,1200,1,1,anus,1,anb,7,0,610.648,1,1,jade,1,anb,7,2,715.174,2,2,jade; jnck,1,anb,7,3,162.30650000000003,2,2,audr; ella
+cal049,2,cal,Male,Male,69,2,anb,2,3,222.46200000000005,1,1,nico,2,anb,2,156.02649999999988,32.73449999999998,2,2,audr; mari,2,anb,2,10,525.2716666666666,3,3,jade; mari; zoeb,2,anb,2,3,16.5,2,2,cla1; clai
+cal050,2,cal,Male,Male,66,2,ban,6,0,1200,1,1,thea,2,ban,6,509.566,11.933999999999969,1,1,audr,2,ban,6,1,1168.364,3,3,apri; audr; jade,2,ban,6,3,1231.4669999999999,2,2,mac; unkn
+cal051,2,cal,Male,Male,68,2,anb,5,0,884.066,1,1,brea,2,anb,5,299.4820000000001,76.56799999999998,1,1,anis,2,anb,5,5.5,977.0925,2,2,bach; mari,2,anb,5,3,159.733,1,1,anus
+cal052,2,cal,Male,Male,70,2,nba,1,6,263.29999999999995,1,1,brea,2,nba,1,279.5679999999997,0,1,1,audr,2,nba,1,9,348.493,1,1,apri,2,nba,1,3,1288.9479999999999,2,2,audr; ella
+cal053,2,cal,Male,Male,68,2,nba,4,0,274.467,1,1,brea,2,nba,4,162.90000000000003,0.16700000000003,1,1,brea,2,nba,4,5,78.55933333333333,3,3,cind; jade; mari,2,nba,4,0,1800,4,4,brea; cla1; clai; jade
+cal054,2,cal,Female,Female_Eggs,59,1,anb,7,0,1200,1,1,anus,1,anb,7,0,2.386000000000024,1,1,jade,1,anb,7,1,1119.4915,2,2,jade; jnck,1,anb,7,1,1800,2,2,audr; ella
+cal055,2,cal,Female,Female,67,1,ban,8,0,16.5,1,1,brea,1,ban,8,0,0.4660000000000082,1,1,brad,1,ban,8,5,315.0160000000001,2,2,jade; jnck,1,ban,8,3,103.941,2,2,audr; ella
+cal056,2,cal,Male,Male,62,2,ban,6,0,1200,1,1,thea,2,ban,6,0,40.63299999999998,1,1,audr,2,ban,6,0,1200,3,3,apri; audr; jade,2,ban,6,1,1800,2,2,mac; unkn
+cap003,1,cap,Male,Male,71,2,anb,2,0,1200,1,1,thea,2,anb,2,0,34.553999999999974,1,1,anis,2,anb,2,3.6666666666666665,723.034,3,3,jade; lady; zoeb,2,anb,2,2,143.49899999999997,1,1,jade
+cap007,1,cap,Male,Male,68,1,ban,9,0.3333333333333333,573.611,3,3,anus; brun; thea,1,ban,9,0,131.26300000000003,1,1,anis,1,ban,9,0.5,1186.4915,2,2,apri; hann,1,ban,9,2.5,566.3499999999999,2,2,jade; unkn
+cap008,1,cap,Female,Female,60,1,nba,10,0,268.234,1,1,brea,1,nba,10,0,1200,2,2,anis; apdr,2,anb,10,1,924.777,2,2,apri; audr,2,anb,10,1,1800,1,1,anus
+cap010,1,cap,Female,Female_Eggs,58,1,nba,7,0,1200,1,1,thea,1,nba,7,371.3790000000001,171.97066666666666,3,3,anis; audr; jade,1,nba,7,0,1200,2,2,apri; audr,1,nba,7,1,1800,2,2,clai; ella
+cap011,1,cap,Male,Male,70,2,ban,6,3.5,390.26649999999995,2,2,brun; lady,2,ban,6,501.06649999999996,9.149999999999999,2,2,brad; thel,2,ban,6,0,1200,3,3,mari; simk; zoeb,2,ban,6,3,9.939333333333334,3,3,clai; ella; jade
+cap012,1,cap,Male,Male,66,2,anb,5,0,1130.333,1,1,ella,2,anb,5,952.2414999999999,88.24299999999997,2,2,anni; paig,2,anb,5,0,1200,2,2,simk; zoeb,2,anb,5,3,425.8030000000001,1,1,anus
+cap016,1,cap,Female,Female_Eggs,64,2,ban,6,0,1200,2,2,brun; lady,2,ban,6,260.09999999999997,60.882999999999996,2,2,brad; thel,2,ban,6,3,469.6576666666666,3,3,mari; simk; zoeb,2,ban,6,2.3333333333333335,88.05566666666667,3,3,clai; ella; jade
+cap019,1,cap,Female,Female,59,1,nba,10,0,449.533,1,1,brea,1,nba,10,82.15150000000011,209.673,2,2,anis; apdr,2,nba,10,2,864.6205,2,2,apri; audr,2,nba,10,3,381.60299999999995,1,1,anus
+cap020,1,cap,Male,Male,71,1,nba,10,0,113.334,1,1,brea,1,nba,10,372.7085000000003,56.48350000000005,2,2,anis; apdr,2,nba,10,0,1200,3,3,apri; audr; jade,2,nba,10,1,1800,1,1,anus
+cap022,1,cap,Male,Male,68,2,nba,1,0,288.25,2,2,ella; scho,2,nba,1,210.7324999999999,120.05000000000001,2,2,brea; paig,2,nba,1,1,1071.828,4,4,brea; clai; jade; lady,2,nba,1,2,69.0335,2,2,audr; brea
+cap023,1,cap,Male,Male,65,1,anb,11,0,1200,1,1,thea,1,anb,11,0,125.72000000000003,1,1,anis,1,anb,11,0,1200,3,3,jade; nico; rebe,1,anb,11,2,1800,1,1,anis
+cap024,1,cap,Male,Male,71,1,ban,9,0,200.92766666666668,3,3,anus; brun; thea,1,ban,9,61.219000000000165,2.0030000000000427,1,1,anis,1,ban,9,2.5,470.59749999999997,2,2,apri; hann,1,ban,9,1,1800,2,2,jade; unkn
+cap025,1,cap,Male,Male,66,2,ban,12,0,334.16600000000017,1,1,brea,2,ban,12,0,48.76650000000001,2,2,audr; brea,NA,NA,NA,NA,NA,NA,NA,NA,2,ban,12,3,425.334,1,1,brea
+cap028,1,cap,Male,Male,66,2,ban,6,0,881.367,2,2,brun; lady,2,ban,6,0,101.4,2,2,brad; thel,2,ban,6,2.6666666666666665,476.7703333333333,3,3,mari; simk; zoeb,2,ban,6,3,0.75,3,3,clai; ella; jade
+cap029,1,cap,Female,Female,60,2,ban,6,0,60.65000000000009,2,2,brun; lady,2,ban,6,153.5335,56.3835,2,2,brad; thel,2,ban,6,4.666666666666667,243.936,3,3,mari; simk; zoeb,2,ban,6,1,1800,3,3,clai; ella; jade
+cap030,1,cap,Female,Female_Eggs,54,2,anb,5,0,1200,1,1,ella,2,anb,5,0,23.656000000000006,2,2,anni; paig,2,anb,5,4,172.0053333333333,3,3,jade; simk; zoeb,2,anb,5,2,1800,1,1,anus
+cap031,1,cap,Female,Female,60,1,nba,7,0,1200,1,1,thea,1,nba,7,894.7406666666667,39.99866666666668,3,3,anis; audr; jade,1,nba,7,0,1200,2,2,apri; audr,1,nba,7,3,290.54150000000004,2,2,clai; ella
+cap032,1,cap,Female,Female_Eggs,58,2,anb,5,0,224.26600000000002,1,1,ella,2,anb,5,654.4754999999998,0.4824999999999875,2,2,anni; paig,2,anb,5,2,1160.5746666666666,3,3,jade; simk; zoeb,2,anb,5,3,183.519,1,1,anus
+cap033,1,cap,Male,Male,70,1,ban,12,0,144.4000000000001,1,1,brea,1,ban,12,262.8665000000001,11.399999999999977,2,2,audr; brea,NA,NA,NA,NA,NA,NA,NA,NA,2,ban,12,0,1800,2,2,audr; brea
+cap036,1,cap,Male,Male,70,1,nba,7,0,1200,1,1,thea,1,nba,7,106.13099999999993,96.8946666666667,3,3,anis; audr; jade,1,nba,7,3,704.3770000000001,2,2,apri; audr,1,nba,7,3,149.233,2,2,clai; ella
+cap037,1,cap,Male,Male,68,1,ban,12,0,476.567,1,1,brea,1,ban,12,549.2665,66.44999999999999,2,2,audr; brea,NA,NA,NA,NA,NA,NA,NA,NA,2,ban,12,3,421.35,2,2,audr; brea
+cap039,1,cap,Male,Male,66,1,nba,8,0,1200,1,1,thea,1,nba,8,0,286.302,2,2,anni; audr,1,anb,8,2,767.224,2,2,apri; mari,1,anb,8,2,1675.7340000000002,1,1,anis
+cap040,1,cap,Female,Female,55,2,anb,2,0,1200,1,1,thea,2,anb,2,1002.862,44.10300000000001,1,1,anis,2,anb,2,1.3333333333333333,638.8056666666666,3,3,jade; lady; zoeb,2,anb,2,1,1800,1,1,jade
+cap041,1,cap,Male,Male,61,1,nba,8,0,1200,1,1,thea,1,nba,8,0,1200,2,2,anni; audr,1,anb,8,0,1200,2,2,apri; mari,1,anb,8,1,1800,1,1,anis
+cap042,1,cap,Female,Female,53,1,anb,11,0,1200,1,1,thea,1,anb,11,0,10.251999999999953,1,1,anis,1,anb,11,0,1200,3,3,jade; nico; rebe,1,anb,11,1,1800,1,1,anis
+cap043,1,cap,Male,Male,65,2,anb,2,3,543.434,1,1,thea,2,anb,2,773.6209999999999,9.978999999999985,1,1,anis,2,anb,2,2,798.0793333333334,3,3,jade; lady; zoeb,2,anb,2,1,1800,1,1,jade
+cap046,1,cap,Female,Female,59,2,nba,4,0,1200,1,1,thea,2,nba,4,586.978,1.212000000000027,3,3,andr; audr; jade,2,nba,4,2.5,478.25299999999993,2,2,hann; jade,2,nba,4,2,132.4949999999999,1,1,scho
+cap047,1,cap,Male,Male,65,2,nba,4,0,1200,1,1,thea,2,nba,4,561.9383333333334,85.54999999999997,3,3,andr; audr; jade,2,nba,4,3.5,624.8395,2,2,hann; jade,2,nba,4,0,1800,1,1,scho
+cap049,1,cap,Female,Female_Eggs,58,1,anb,11,0,1200,1,1,thea,1,anb,11,344.6669999999999,279.61699999999996,1,1,anis,1,anb,11,3,291.779,3,3,jade; nico; rebe,1,anb,11,3,378.383,1,1,anis
+cap051,1,cap,Female,Female,59,2,nba,4,0,1200,1,1,thea,2,nba,4,0,80.79299999999999,3,3,andr; audr; jade,2,nba,4,6.5,465.30950000000007,2,2,hann; jade,2,nba,4,3,553.6569999999999,1,1,scho
+cap052,1,cap,Male,Male,65,1,nba,10,0,180.2,1,1,brea,1,nba,10,3.466000000000008,65.39099999999996,2,2,anis; apdr,2,nba,10,0,1200,2,2,apri; audr,2,nba,10,3,48.032999999999994,1,1,anus
+cap054,1,cap,Male,Male,66,2,nba,4,0,1200,1,1,thea,2,nba,4,12.117333333333326,9.909999999999988,3,3,andr; audr; jade,2,nba,4,2,985.1534999999999,2,2,hann; jade,2,nba,4,3,459.89699999999993,1,1,scho
+cap055,1,cap,Male,Male,67,2,nba,1,0,511.5330000000001,1,1,ella,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+cap056,1,cap,Male,Male,64,2,anb,5,0,831.4670000000001,1,1,ella,2,anb,5,186.1919999999999,37.650000000000006,2,2,anni; paig,2,anb,5,3,304.36100000000005,3,3,jade; simk; zoeb,2,anb,5,3,43.51599999999985,1,1,anus
+cap057,1,cap,Female,Female,54,2,anb,2,0,145.56699999999995,1,1,thea,2,anb,2,386.71299999999985,153.33300000000008,1,1,anis,2,anb,2,2.6666666666666665,908.962,3,3,jade; lady; zoeb,2,anb,2,3,1706.781,1,1,jade
+cap059,1,cap,Female,Female_Eggs,63,2,nba,1,0,155.332,2,2,ella; scho,2,nba,1,800.6000000000001,5.166500000000042,2,2,brea; paig,2,nba,1,0,1200,4,4,brea; clai; jade; lady,2,nba,1,1,1446.2665,2,2,audr; brea
+cap060,1,cap,Male,Male,67,1,anb,11,0,1200,1,1,thea,1,anb,11,19.113000000000056,130.68600000000004,1,1,anis,1,anb,11,3,719.3100000000001,3,3,jade; nico; rebe,1,anb,11,3,1645.113,1,1,anis
+cap061,1,cap,Male,Male,71,1,nba,8,0,1200,1,1,thea,1,nba,8,9.966499999999996,0.4525,2,2,anni; audr,1,anb,8,2,1017.082,2,2,apri; mari,1,anb,8,3,53.882999999999996,1,1,anis
+cap064,1,cap,Female,Female_Eggs,58,1,nba,7,0,1200,1,1,thea,1,nba,7,103.88333333333325,71.84366666666666,3,3,anis; audr; jade,1,nba,7,7.5,36.394999999999996,2,2,apri; audr,1,nba,7,3,21.933999999999997,2,2,clai; ella
+cap065,1,cap,Male,Male,67,2,nba,1,2,566.798,1,1,scho,2,nba,1,926.3505,2.650000000000034,2,2,brea; paig,2,nba,1,0,1200,4,4,brea; clai; jade; lady,2,nba,1,3,269.9,2,2,audr; brea
+cap066,1,cap,Female,Female,60,2,nba,1,0,623.8765,2,2,ella; scho,2,nba,1,90.4330000000001,61.04999999999998,2,2,brea; paig,2,nba,1,1,102.51125,4,4,brea; clai; jade; lady,2,nba,1,3,354.783,2,2,audr; brea
+cap067,1,cap,Female,Female,57,1,ban,9,0,857.0776666666667,3,3,anus; brun; thea,1,ban,9,231.31999999999982,16.879999999999995,1,1,anis,1,ban,9,0,1200,2,2,apri; hann,1,ban,9,3,144.05,3,3,ella; jade; unkn
+cap068,1,cap,Female,Female_Eggs,57,1,ban,9,0,1087.089,3,3,anus; brun; thea,1,ban,9,0,91.05099999999999,1,1,anis,1,ban,9,2,164.9215,2,2,apri; hann,1,ban,9,3,862.144,3,3,ella; jade; unkn
+cap071,1,cap,Male,Male,72,1,ban,12,6,257.5329999999999,1,1,brea,1,ban,12,52.56700000000001,11.783000000000015,2,2,audr; brea,NA,NA,NA,NA,NA,NA,NA,NA,2,ban,12,3,687.0335,2,2,audr; brea
+cap072,1,cap,Female,Female_Eggs,55,1,nba,8,0,134.33400000000003,1,1,thea,1,nba,8,0,47.961,2,2,anni; audr,1,anb,8,0,1200,2,2,apri; mari,1,anb,8,1,1800,1,1,anis
+elb002,4,elb,Female,Female_Eggs,63,2,anb,2,0,1200,2,2,cind; nico,2,anb,2,875.5220000000002,1.883499999999998,2,2,brad; cind,2,anb,2,0,1200,2,2,jade; scho,2,anb,2,3,652.7905000000001,2,2,audr; mari
+elb003,4,elb,Female,Female_Eggs,64,2,nba,1,1,672.3015,2,2,mari; thea,2,nba,1,529.6544999999999,26.784999999999997,2,2,anis; jade,NA,NA,NA,NA,NA,NA,NA,NA,2,nba,1,2,74.9885,2,2,apri; mari
+elb005,4,elb,Female,Female_Eggs,63,2,ban,3,0,710.3330000000001,1,1,lady,2,ban,3,36.266999999999825,23.73300000000006,1,1,brea,2,ban,3,0,1200,1,1,mari,2,ban,3,0,1800,2,2,audr; mari
+elb007,4,elb,Male,Male,64,1,anb,5,0,280.43399999999997,1,1,lady,NA,NA,NA,NA,NA,NA,NA,NA,1,anb,5,2,877.5735,2,2,jade; mari,1,anb,5,3,161.00099999999998,1,1,mari
+elb009,4,elb,Male,Male,67,2,nba,4,0,998.9335000000001,2,2,ella; nico,2,nba,4,1005.7845000000001,126.83300000000001,2,2,anni; clai,2,nba,4,0,1200,1,1,scho,2,nba,4,0,1800,1,1,apri
+elb010,4,elb,Male,Male,66,2,nba,1,0,674.7395,2,2,mari; thea,2,nba,1,351.59900000000005,5.125499999999988,2,2,anis; jade,NA,NA,NA,NA,NA,NA,NA,NA,2,nba,1,2.5,1381.2755,2,2,apri; mari
+elb011,4,elb,Female,Female,65,1,anb,5,0,353,1,1,lady,NA,NA,NA,NA,NA,NA,NA,NA,1,anb,5,7,270.457,2,2,jade; mari,1,anb,5,3,10.913000000000011,1,1,mari
+elb012,4,elb,Male,Male,70,1,ban,6,0,1200,1,1,anis,1,ban,6,41.3570000000002,230.267,1,1,anis,1,ban,6,0,1200,2,2,anni; mari,1,ban,6,2,108.1225,2,2,anis; mari
+elb013,4,elb,Male,Male,74,2,anb,2,0,468.24399999999997,2,2,cind; nico,2,anb,2,569.4395,20.724999999999994,2,2,brad; cind,2,anb,2,2,943.8585,2,2,jade; scho,2,anb,2,3,859.2560000000001,2,2,audr; mari
+elb014,4,elb,Male,Male,70,2,nba,4,0,251.636,2,2,ella; nico,2,nba,4,931.0255000000002,2.8685000000000116,2,2,anni; clai,2,nba,4,1,761.4649999999999,1,1,scho,2,nba,4,0,1800,1,1,apri
+elb015,4,elb,Female,Female,59,2,nba,1,0,935.135,2,2,mari; thea,2,nba,1,0,32.01700000000001,2,2,anis; jade,NA,NA,NA,NA,NA,NA,NA,NA,2,nba,1,2,856.067,2,2,apri; mari
+elb016,4,elb,Female,Female,57,1,ban,6,0,1200,1,1,anis,1,ban,6,68.98000000000002,137.66600000000005,1,1,anis,1,ban,6,0,1200,2,2,anni; mari,1,ban,6,2,259.005,2,2,anis; mari
+elb017,4,elb,Female,Female,55,2,nba,1,0,796.6085,2,2,mari; thea,2,nba,1,0,143.7605,2,2,anis; jade,NA,NA,NA,NA,NA,NA,NA,NA,2,nba,1,3,290.295,2,2,apri; mari
+elb018,4,elb,Male,Male,68,1,ban,6,0,108.33200000000001,1,1,anis,1,ban,6,0,225.06700000000006,1,1,anis,1,ban,6,3.5,510.5505,2,2,anni; mari,1,ban,6,3,27.368999999999996,2,2,anis; mari
+elb019,4,elb,Female,Female,61,2,nba,4,2.5,725.5235,2,2,ella; nico,2,nba,4,131.36699999999996,2.823999999999984,2,2,anni; clai,2,nba,4,0,1200,1,1,scho,2,nba,4,3,89.993,1,1,apri
+elb020,4,elb,Female,Female,55,2,anb,2,0,285.86699999999996,2,2,cind; nico,2,anb,2,0,1.2005000000000052,2,2,brad; cind,2,anb,2,0,1200,2,2,jade; scho,2,anb,2,3,455.6415,2,2,audr; mari
+elb021,4,elb,Male,Male,73,1,anb,5,0,1200,1,1,lady,NA,NA,NA,NA,NA,NA,NA,NA,1,anb,5,0,1200,2,2,jade; mari,1,anb,5,0,1800,1,1,mari
+elb022,4,elb,Male,Male,67,2,nba,4,2,258.3545,2,2,ella; nico,2,nba,4,515.56,0.48599999999999,2,2,anni; clai,2,nba,4,0,1200,1,1,scho,2,nba,4,3,1565.728,1,1,apri
+elb023,4,elb,Male,Male,64,2,ban,3,0,187.8,1,1,lady,2,ban,3,515.4660000000001,247.86700000000008,1,1,brea,2,ban,3,1,692.933,1,1,mari,2,ban,3,1,1800,2,2,audr; mari
+elb024,4,elb,Female,Female,56,2,ban,3,0,1200,1,1,lady,2,ban,3,0,24.06600000000003,1,1,brea,2,ban,3,4,190.50300000000001,1,1,mari,2,ban,3,2,15.79,2,2,audr; mari
+elb025,4,elb,Male,Male,62,2,ban,3,0,108.80000000000001,1,1,lady,2,ban,3,0,50.03300000000007,1,1,brea,2,ban,3,5,583.183,1,1,mari,2,ban,3,2,1800,2,2,audr; mari
+elb026,4,elb,Male,Male,73,1,nba,7,0,752.4469999999999,1,1,anis,1,nba,7,57.79099999999994,168.30199999999996,1,1,anis,1,nba,7,4,484.953,1,1,cind,1,nba,7,3,1757.1979999999999,1,1,mari
+elb027,4,elb,Female,Female,64,1,ban,6,0,1200,1,1,anis,1,ban,6,455.95299999999986,71.668,1,1,anis,1,ban,6,2,614.7484999999999,2,2,anni; mari,1,ban,6,3,863.698,2,2,anis; mari
+elb028,4,elb,Female,Female,59,1,nba,7,0,1200,1,1,anis,1,nba,7,312.6039999999998,231.46500000000003,1,1,anis,1,nba,7,3,661.145,1,1,cind,1,nba,7,3,54.007999999999996,1,1,mari
+elb029,4,elb,Female,Female,57,1,anb,5,0,1200,1,1,lady,NA,NA,NA,NA,NA,NA,NA,NA,1,anb,5,1.5,261.5,2,2,jade; mari,1,anb,5,3,255.87200000000007,1,1,mari
+elb030,4,elb,Male,Male,68,2,anb,2,0,1200,2,2,cind; nico,2,anb,2,13.107999999999947,48.56650000000002,2,2,brad; cind,2,anb,2,1,963.222,2,2,jade; scho,2,anb,2,3,0.2889999999999997,2,2,audr; mari
+gor001,2,gor,Male,Male,54,2,ban,6,0,1200,1,1,thea,2,ban,6,580.0999999999999,0.36700000000001864,1,1,audr,2,ban,6,0,1200,3,3,apri; audr; jade,2,ban,6,3,1053.2330000000002,2,2,mac; unkn
+gor006,2,gor,Male,Male,47,1,ban,8,0,223.43399999999997,1,1,brea,1,ban,8,0,0.10000000000002274,1,1,brad,1,ban,8,0,1200,2,2,jade; jnck,1,ban,8,2,60.150499999999994,2,2,audr; ella
+gor007,2,gor,Male,Male,65,2,ban,6,0,1200,1,1,thea,2,ban,6,0,0,1,1,audr,2,ban,6,1,946.18375,4,4,apri; aud1; audr; jade,2,ban,6,1,1800,2,2,mac; unkn
+gor008,2,gor,Male,Male,55,1,anb,7,0,709.085,1,1,anus,1,anb,7,377.60299999999995,541.08,1,1,jade,1,anb,7,2.5,527.5830000000001,2,2,jade; jnck,1,anb,7,1,1800,2,2,audr; ella
+gor026,3,gor,Male,Male,66,2,anb,1,0,278.801,1,1,anni,2,anb,1,24.25499999999994,0.8659999999999854,1,1,nico,1,nba,9,0,1200,3,3,kenn; lady; mari,1,nba,9,0,1800,3,3,brea; hann; jade
+gor027,3,gor,Female,Female,69,2,anb,7,0,1200,1,1,anus,2,anb,7,280.38800000000003,64.45,2,2,anis; anni,2,anb,7,4.333333333333333,727.7673333333333,3,3,anni; jade; jnck,2,anb,7,3,99.34899999999999,1,1,jade
+gor029,3,gor,Female,Female,64,2,anb,7,0,1200,4,4,anus; brea; lori; thel,NA,NA,NA,NA,NA,NA,NA,NA,1,anb,8,2,747.9745,2,2,audr; jade,NA,NA,NA,NA,NA,NA,NA,NA
+gor031,3,gor,Male,Male,70,2,anb,1,0,761.9499999999999,1,1,anni,2,anb,1,0,0.5009999999999764,1,1,nico,1,nba,9,0,1200,4,4,kenn; lady; mari; thea,1,nba,9,3,438.615,3,3,brea; hann; jade
+gor032,3,gor,Female,Female_Eggs,56,1,ban,12,0,1200,1,1,anus,1,ban,12,1057.125,69.7235,2,2,anis; anni,2,anb,7,1,819.9559999999998,3,3,anni; jade; jnck,2,anb,7,1,1800,1,1,jade
+gor033,3,gor,Female,Female,66,2,anb,7,0,1200,1,1,anus,2,anb,7,516.2149999999999,36.34299999999999,2,2,anis; anni,2,anb,7,1,1100.317,3,3,anni; jade; jnck,2,anb,7,1,1800,1,1,jade
+gor036,3,gor,Male,Male,70,1,ban,10,0,971.3469999999999,1,1,mari,1,nba,10,396.0340000000001,0.9170000000000016,1,1,clai,1,ban,10,2,954.7774999999999,2,2,anni; rebe,1,ban,10,2,196.67199999999997,1,1,jade
+gor037,3,gor,Male,Male,68,2,anb,4,0,580.1315,2,2,anni; nico,2,anb,4,627.3330000000001,0.5999999999999943,1,1,audr,2,anb,4,3,783.3845,4,4,anni; awes; hann; jade,2,anb,4,1,1800,1,1,jade
+gor039,3,gor,Female,Female_Eggs,58,1,ban,13,0,1200,4,4,anus; brea; lori; thel,NA,NA,NA,NA,NA,NA,NA,NA,1,anb,8,0,1200,2,2,audr; jade,1,anb,8,1,1800,1,1,brea
+gor040,3,gor,Male,Male,70,2,nba,6,30,2.800000000000182,1,1,brea,2,nba,6,0,212.06799999999998,1,1,pooj,2,nba,6,2,1019.8629999999999,4,4,anni; hann; niki; scho,NA,NA,NA,NA,NA,NA,NA,NA
+gor043,3,gor,Male,Male,65,2,nba,6,0,131.53300000000013,1,1,brea,2,nba,6,636.6339999999999,31.320999999999998,1,1,pooj,2,nba,6,1,229.9315,4,4,anni; hann; niki; scho,NA,NA,NA,NA,NA,NA,NA,NA
+gor044,3,gor,Male,Male,66,1,ban,13,0,1043.4,4,4,anus; brea; lori; thel,NA,NA,NA,NA,NA,NA,NA,NA,1,anb,8,3.5,796.1165000000001,2,2,audr; jade,NA,NA,NA,NA,NA,NA,NA,NA
+gor045,3,gor,Female,Female,58,1,ban,10,0,597.966,1,1,brun,1,ban,10,286.07349999999997,84.81699999999998,2,2,jade; thel,NA,NA,NA,NA,NA,NA,NA,NA,1,ban,10,3,158.643,1,1,apri
+gor046,3,gor,Male,Male,71,2,nba,3,1,498.41200000000003,1,1,scho,2,nba,3,1033.5164999999997,0.625500000000045,2,2,clai; mari,2,nba,3,2,739.111,2,2,anni; mari,2,nba,3,0,1800,1,1,anis
+gor047,3,gor,Female,Female,60,2,nba,3,0,640.913,1,1,scho,2,nba,3,1033.2399999999998,1.5109999999999673,2,2,clai; mari,2,nba,3,1.5,1048.4085,2,2,anni; mari,2,nba,3,3,5.954000000000065,1,1,anis
+gor050,3,gor,Female,Female_Eggs,61,2,ban,5,0,282.839,2,2,amar; anni,2,ban,5,83.16949999999986,41.71950000000001,2,2,anis; anni,2,ban,5,0,1200,3,3,hann; mari; niki,2,ban,5,2,1800,2,2,apri; jade
+liv001,3,liv,Male,Male,54,2,nba,3,0,726.9949999999999,1,1,scho,2,nba,3,728.2115,1.2794999999999845,2,2,clai; mari,2,nba,3,2,993.0324999999998,2,2,anni; mari,2,nba,3,2,2.116999999999962,1,1,anis
+liv003,3,liv,Male,Male,71,2,anb,4,0,1200,2,2,anni; nico,2,anb,4,644.1010000000001,1.200000000000017,1,1,audr,2,anb,4,2,789.04175,4,4,anni; awes; hann; jade,2,anb,4,1,1800,1,1,jade
+liv004,3,liv,Female,Female,61,1,anb,11,0,806.415,2,2,cind; mari,1,anb,11,846.027,32.70100000000002,1,1,apri,1,ban,12,5,869.9727142857143,7,7,anni; awes; brea; hann; jade; jnck; mari,1,ban,12,3,434.49999999999994,1,1,anis
+liv005,3,liv,Male,Male,73,1,anb,8,1,844.669,1,1,anni,1,anb,8,23.757000000000062,8.00200000000001,1,1,nico,1,nba,9,3.5,670.64575,4,4,kenn; lady; mari; thea,1,nba,9,1,1800,3,3,brea; hann; jade
+liv006,3,liv,Male,Male,67,1,anb,11,0,386.57399999999996,2,2,cind; mari,1,anb,11,537.6149999999998,4.173000000000002,1,1,apri,1,ban,12,0,1200,7,7,anni; awes; brea; hann; jade; jnck; mari,NA,NA,NA,NA,NA,NA,NA,NA
+liv007,3,liv,Female,Female,51,1,nba,9,0,274.2835,2,2,mari; thel,1,nba,9,1180.383,0.75,1,1,clai,1,anb,8,1,850.4414999999999,2,2,anni; rebe,1,anb,8,2,177.986,1,1,jade
+liv008,3,liv,Male,Male,57,2,nba,3,0,154.95899999999995,1,1,scho,2,nba,3,191.34699999999987,3.6959999999999127,2,2,clai; mari,2,nba,3,5,440.0825,2,2,anni; mari,2,nba,3,2,1800,1,1,anis
+liv009,3,liv,Male,Male,75,2,anb,4,0,1200,2,2,anni; nico,2,anb,4,0,118.06600000000003,1,1,audr,2,anb,4,0,1200,4,4,anni; awes; hann; jade,2,anb,4,0,1800,1,1,jade
+liv010,3,liv,Female,Female,73,1,ban,10,0,1200,1,1,brun,1,ban,10,883.08500000000015,4.5575000000000045,2,2,jade; thel,NA,NA,NA,NA,NA,NA,NA,NA,1,ban,10,3,109.14599999999999,1,1,apri
+liv014,3,liv,Male,Male,71,1,ban,10,0,1200,1,1,brun,1,ban,10,873.5415,2.2854999999999848,2,2,jade; thel,NA,NA,NA,NA,NA,NA,NA,NA,1,ban,10,2,1348.3990000000001,1,1,apri
+liv019,3,liv,Male,Male,71,2,anb,7,0,247.5,1,1,anus,2,anb,7,23.340499999999906,160.78549999999998,2,2,anis; anni,2,anb,7,0,1200,3,3,anni; jade; jnck,2,anb,7,3,418.78200000000004,1,1,jade
+liv020,3,liv,Male,Male,65,1,nba,9,0,458.795,1,1,mari,1,nba,9,577.1670000000001,1.0009999999999764,1,1,clai,1,ban,10,4,605.0319999999999,2,2,anni; rebe,1,ban,10,3,356.94800000000004,1,1,jade
+liv021,3,liv,Female,Female,60,2,ban,5,0.5,358.06399999999996,2,2,amar; anni,2,ban,5,15.926000000000045,3.4505000000000052,2,2,anis; anni,2,ban,5,3.6666666666666665,830.102,3,3,hann; mari; niki,2,ban,5,0,1800,2,2,apri; jade
+liv022,3,liv,Male,Male,69,2,ban,5,0,439.5665,2,2,amar; anni,2,ban,5,353.317,261.9635,2,2,anis; anni,2,ban,5,0,1200,3,3,hann; mari; niki,2,ban,5,0,1800,2,2,apri; jade
+liv023,3,liv,Female,Female_Eggs,53,1,ban,10,0,1200,1,1,brun,1,ban,10,585.1179999999997,2.592500000000001,2,2,jade; thel,NA,NA,NA,NA,NA,NA,NA,NA,1,ban,10,3,63.400000000000006,1,1,apri
+liv024,3,liv,Male,Male,72,2,ban,5,3,171.652,2,2,amar; anni,2,ban,5,151.68400000000003,23.274999999999977,2,2,anis; anni,2,ban,5,3.6666666666666665,892.2813333333334,3,3,hann; mari; niki,2,ban,5,3,113.88749999999999,2,2,apri; jade
+liv025,3,liv,Male,Male,64,1,anb,11,0,887.9745,2,2,cind; mari,1,anb,11,73.464999999999975,41.96800000000002,1,1,apri,1,ban,12,0,1200,7,7,anni; awes; brea; hann; jade; jnck; mari,1,ban,12,3,1625.9,1,1,anis
+liv028,3,liv,Male,Male,69,2,anb,4,1,513.5995,2,2,anni; nico,2,anb,4,1162.733,11.667000000000002,1,1,audr,2,anb,4,0,1200,4,4,anni; awes; hann; jade,2,anb,4,3,762.8710000000001,1,1,jade
+liv029,3,liv,Male,Male,68,1,anb,11,0,388.4745,2,2,cind; mari,1,anb,11,252.52000000000004,21.178999999999974,1,1,apri,1,ban,12,0,1200,7,7,anni; awes; brea; hann; jade; jnck; mari,1,ban,12,3,5.100000000000023,1,1,anis
+liv030,3,liv,Female,Female,63,1,nba,9,0,356.40099999999995,1,1,mari,1,nba,9,0,0.9000000000000341,1,1,clai,1,ban,10,8.5,145.1175,2,2,anni; rebe,1,ban,10,3,139.11999999999995,1,1,jade
+liv031,3,liv,Female,Female,63,1,anb,8,0,1200,1,1,anni,1,anb,8,21.510999999999967,2.252999999999986,1,1,nico,1,nba,9,3,623.73,4,4,kenn; lady; mari; thea,1,nba,9,2,1143.5173333333335,3,3,brea; hann; jade
+cal058,3,cal,Female,Female,64,NA,NA,NA,NA,NA,NA,NA,NA,1,ban,13,0,9.260333333333355,3,3,brea; clai; nico,1,ban,13,2.5,419.34125,4,4,anni; clai; hann; jade,1,ban,13,3,154.16649999999998,2,2,brea; mari
+cap002,1,cap,Male,Male,65,NA,NA,NA,NA,NA,NA,NA,NA,2,ban,3,8.365999999999985,180.784,1,1,anis,2,ban,3,0,1200,2,2,bach; jade,2,ban,3,1,1800,2,2,ella; jade
+cap009,1,cap,Male,Male,65,NA,NA,NA,NA,NA,NA,NA,NA,2,ban,3,150.70299999999997,24.367999999999995,1,1,anis,2,ban,3,0,1200,2,2,bach; jade,2,ban,3,2.5,881.7355,2,2,ella; jade
+cap034,1,cap,Female,Female,60,NA,NA,NA,NA,NA,NA,NA,NA,2,ban,3,802.017,9.06499999999994,1,1,anis,2,ban,3,0,1200,2,2,bach; jade,2,ban,3,3,391.9245000000001,2,2,ella; jade
+cap035,2,cap,Male,Male,69,NA,NA,NA,NA,NA,NA,NA,NA,2,nba,4,1161.2,0,1,1,audr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+cap053,2,cap,Male,Male,53,NA,NA,NA,NA,NA,NA,NA,NA,2,nba,4,191.0330000000002,0,1,1,audr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+cap074,1,cap,Female,Female,59,NA,NA,NA,NA,NA,NA,NA,NA,2,ban,3,870.7210000000001,27.230000000000018,1,1,anis,1,ban,3,0,1200,2,2,bach; jade,1,ban,3,3,837.909,2,2,ella; jade
+gor004,2,gor,Male,Male,62,NA,NA,NA,NA,NA,NA,NA,NA,1,ban,8,1097.333,8.099999999999966,1,1,brad,1,ban,8,0,1200,2,2,jade; jnck,1,ban,8,2,949.933,2,2,audr; ella
+gor035,3,gor,Male,Male,66,NA,NA,NA,NA,NA,NA,NA,NA,2,ban,2,13.429499999999962,9.763000000000005,2,2,anis; clai,2,ban,2,2.5,573.8499999999999,2,2,anni; jade,2,ban,2,1,1800,2,2,brea; clai
+gor038,3,gor,Male,Male,61,NA,NA,NA,NA,NA,NA,NA,NA,2,ban,2,313.6280000000001,2.1260000000000048,2,2,anis; clai,2,ban,2,5,281.3095,2,2,anni; jade,2,ban,2,3,328.777,2,2,brea; clai
+gor048,3,gor,Male,Male,58,NA,NA,NA,NA,NA,NA,NA,NA,2,ban,2,966.799,4.1769999999999925,2,2,anis; clai,2,ban,2,5,617.1775,2,2,anni; jade,2,ban,2,1,1800,2,2,brea; clai
+liv002,3,liv,Male,Male,73,NA,NA,NA,NA,NA,NA,NA,NA,2,ban,2,0,165.06050000000002,2,2,anis; clai,2,ban,2,0,1200,2,2,anni; jade,2,ban,2,1,810.616,2,2,brea; clai
+liv011,3,liv,Male,Male,77,NA,NA,NA,NA,NA,NA,NA,NA,2,anb,1,0,105.67500000000001,2,2,mari; pooj,2,anb,1,8.75,610.6365,4,4,anni; apri; hann; niki,2,anb,1,3,129.81675,4,4,aud1; audr; fran; jade
+liv012,3,liv,Female,Female_Eggs,70,NA,NA,NA,NA,NA,NA,NA,NA,1,anb,8,0,215.72050000000002,2,2,mari; pooj,2,anb,1,2,792.376,4,4,anni; apri; hann; niki,2,anb,1,3,175.85475,4,4,aud1; audr; fran; jade
+liv013,3,liv,Female,Female_Eggs,71,NA,NA,NA,NA,NA,NA,NA,NA,1,ban,12,419.3726666666667,14.649333333333326,3,3,brea; clai; nico,1,ban,13,2,499.55300000000005,4,4,anni; clai; hann; jade,1,ban,13,3,50.900000000000006,2,2,brea; mari
+liv015,3,liv,Female,Female,73,NA,NA,NA,NA,NA,NA,NA,NA,2,nba,6,632.4500000000003,44.66,1,1,pooj,2,nba,6,4.25,540.8050000000001,4,4,andr; anni; jade; mari,2,nba,6,0.5,1800,2,2,abgj; jade
+liv016,3,liv,Female,Female,59,NA,NA,NA,NA,NA,NA,NA,NA,2,anb,1,1.6260000000000048,287.044,2,2,mari; pooj,2,anb,1,5,1075.088,4,4,anni; apri; hann; niki,2,anb,1,1,1800,4,4,aud1; audr; fran; jade
+liv017,3,liv,Male,Male,60,NA,NA,NA,NA,NA,NA,NA,NA,2,nba,6,285.311,18.156,1,1,pooj,2,nba,6,0,1200,4,4,andr; anni; jade; mari,2,nba,6,0,1800,2,2,abgj; jade
+liv018,3,liv,Male,Male,66,NA,NA,NA,NA,NA,NA,NA,NA,1,ban,12,411.18166666666656,12.177000000000001,3,3,brea; clai; nico,1,ban,13,3,393.90525,4,4,anni; clai; hann; jade,1,ban,13,3,362.026,2,2,brea; mari
+liv026,3,liv,Female,Female_Eggs,65,NA,NA,NA,NA,NA,NA,NA,NA,1,anb,8,271.7019999999999,176.99950000000004,2,2,mari; pooj,2,anb,1,3,345.611,4,4,anni; apri; hann; niki,2,anb,1,0,1800,4,4,aud1; audr; fran; jade
+liv027,3,liv,Female,Female,65,NA,NA,NA,NA,NA,NA,NA,NA,1,ban,12,92.48466666666666,12.105999999999986,3,3,brea; clai; nico,1,ban,13,1.75,406.59000000000003,4,4,anni; clai; hann; jade,1,ban,13,3,386.127,2,2,brea; mari
+cal057,3,cal,Female,Female,56,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,anb,8,1,299.517,1,1,jade,1,anb,8,3,45.13400000000024,1,1,brea
+cal024,1,cal,Female,Female,63,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,ban,9,1,1800,1,1,ella
+cap004,1,cap,Female,Female,61,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,ban,12,3,399.16700000000003,1,1,audr
+gor011,3,gor,Male,Male,52,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,anb,8,3,18.600000000000136,1,1,brea
+gor022,3,gor,Female,Female,49,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,anb,8,3,160.16699999999992,1,1,brea

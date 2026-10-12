@@ -1,0 +1,7 @@
+Behavioral comparison,Overall ρ,Overall P (Holm P),Overall N,Within-population ρ range,Within-population raw P range (Holm P range)
+Aggression × boldness,0.110,0.189 (0.945),143,-0.179 to 0.417,0.053 - 0.755 (0.320 - 1.000)
+Aggression × neophilia,0.044,0.604 (1.000),142,-0.336 to 0.287,0.062 - 0.602 (0.311 - 1.000)
+Aggression × exploration,0.133,0.108 (0.651),147,-0.411 to 0.366,0.019 - 0.810 (0.111 - 1.000)
+Boldness × neophilia,0.011,0.893 (1.000),150,-0.379 to 0.170,0.121 - 0.854 (0.603 - 1.000)
+Boldness × exploration,0.025,0.758 (1.000),158,-0.028 to 0.163,0.390 - 0.911 (1.000 - 1.000)
+Neophilia × exploration,0.089,0.271 (1.000),155,-0.054 to 0.314,0.154 - 0.860 (0.603 - 1.000)

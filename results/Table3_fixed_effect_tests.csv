@@ -1,0 +1,26 @@
+Response,Model,Predictor,Test statistic,df,p
+Aggression: bite presence,Monte Carlo Fisher exact test,Population,—,—,0.899
+Aggression: bite presence,Monte Carlo Fisher exact test,Sex/reproductive status,—,—,0.062
+Aggression: bite presence,Monte Carlo Fisher exact test,NBA assay order,—,—,0.559
+Boldness: log (1 + latency),LMM,Population,χ² = 7.10,4,0.131
+Boldness: log (1 + latency),LMM,Sex/reproductive status,χ² = 0.34,2,0.846
+Boldness: log (1 + latency),LMM,Standardized SVL,χ² = 0.04,1,0.846
+Boldness: log (1 + latency),LMM,NBA assay order,χ² = 1.15,2,0.562
+Neophilia: contact (consensus),Quasi-Poisson GLM,Population,F = 2.37,"4, 152",0.055
+Neophilia: contact (consensus),Quasi-Poisson GLM,Sex/reproductive status,F = 0.98,"2, 152",0.377
+Neophilia: contact (consensus),Quasi-Poisson GLM,Standardized SVL,F = 3.50,"1, 152",0.063
+Neophilia: contact (consensus),Quasi-Poisson GLM,NBA assay order,F = 0.46,"2, 152",0.633
+Exploration: unique corners,Binomial GLMM,Population,χ² = 3.49,4,0.480
+Exploration: unique corners,Binomial GLMM,Sex/reproductive status,χ² = 3.85,2,0.146
+Exploration: unique corners,Binomial GLMM,Standardized SVL,χ² = 0.08,1,0.781
+Exploration: unique corners,Binomial GLMM,Exploration day,χ² = 3.11,1,0.078
+Climbing proportion,"LMM, logit proportion",Behavioral assay,χ² = 0.50,3,0.920
+Climbing proportion,"LMM, logit proportion",Population,χ² = 9.30,4,0.054
+Climbing proportion,"LMM, logit proportion",Sex/reproductive status,χ² = 0.45,2,0.800
+Climbing proportion,"LMM, logit proportion",Standardized SVL,χ² = 5.70,1,0.017
+Climbing proportion,"LMM, logit proportion",Assay × population,χ² = 20.11,12,0.065
+Sheltering proportion,"LMM, logit proportion",Behavioral assay,χ² = 45.86,3,<0.001
+Sheltering proportion,"LMM, logit proportion",Population,χ² = 8.09,4,0.088
+Sheltering proportion,"LMM, logit proportion",Sex/reproductive status,χ² = 0.84,2,0.657
+Sheltering proportion,"LMM, logit proportion",Standardized SVL,χ² = 4.10,1,0.043
+Sheltering proportion,"LMM, logit proportion",Assay × population,χ² = 21.92,12,0.038
